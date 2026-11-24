@@ -9,22 +9,22 @@ namespace WPF_Adatkotes_StatikusEroforras
   {
     public string Vezetéknév{ get; set;}
     public string Keresztnév { get; set; }
-    public string Neptun { get; set; }
+    public string EHA { get; set; }
     public string email { get; set; }
     public double GöngyölítettÁtlag { get; set; }
 
     public Hallgató(string VN, string KN, 
-      string N, 
+      string E, 
       string e, double GÁ)
     {
       Vezetéknév = VN;
       Keresztnév = KN;
-      Neptun = N;
+      EHA = E;
       email = e;
       GöngyölítettÁtlag = GÁ;
     }
 
     public Hallgató() : this("Nagyon", "Okos", 
-      "NAGOKO", "naok@net.hu", 3.24) { }
+      "NAOKXXX.KEFO", "naok@net.hu", 3.24) { }
   }
 }
