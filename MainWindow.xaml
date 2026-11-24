@@ -1,9 +1,9 @@
-﻿<Window x:Class="WPF_Adatkotes_StatikusEroforras.MainWindow"
+﻿<Window x:Class="WPF_DataBinding_StatikusEroforras.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WPF_Adatkotes_StatikusEroforras"
+        xmlns:local="clr-namespace:WPF_DataBinding_StatikusEroforras"
         mc:Ignorable="d"
         Title="Adatkötés statikus erőforráshoz" Height="250" Width="600">
 	<Window.Resources>

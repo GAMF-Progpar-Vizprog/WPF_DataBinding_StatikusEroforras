@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WPF_Adatkotes_StatikusEroforras
+namespace WPF_DataBinding_StatikusEroforras
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

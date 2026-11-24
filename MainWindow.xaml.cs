@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_Adatkotes_StatikusEroforras
+namespace WPF_DataBinding_StatikusEroforras
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml

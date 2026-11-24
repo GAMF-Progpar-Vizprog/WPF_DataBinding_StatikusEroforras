@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace WPF_Adatkotes_StatikusEroforras
+namespace WPF_DataBinding_StatikusEroforras
 {
   public class Hallgató
   {
